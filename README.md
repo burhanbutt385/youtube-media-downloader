@@ -32,7 +32,7 @@ You do not need to install Python or use the command line if you just want to ru
 If you are a developer and wish to run or modify the application locally:
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/youtube-media-downloader.git
+git clone https://github.com/burhanbutt385/youtube-media-downloader.git
 cd youtube-media-downloader
 
 # Install the required dependencies
