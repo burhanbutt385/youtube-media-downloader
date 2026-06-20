@@ -1,0 +1,5 @@
+setup.py
+YouTube_Media_Downloader.egg-info/PKG-INFO
+YouTube_Media_Downloader.egg-info/SOURCES.txt
+YouTube_Media_Downloader.egg-info/dependency_links.txt
+YouTube_Media_Downloader.egg-info/top_level.txt
